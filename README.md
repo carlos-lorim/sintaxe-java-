@@ -1,5 +1,5 @@
 # Exercícios Básicos em Java
-![Logo Java](https://upload.wikimedia.org/wikipedia/commons/6/6e/Java_logo_icon.png)
+![Logo Java](https://upload.wikimedia.org/wikipedia/commons/a/a0/Java_logo_icon.png)
 
 Este repositório contém exercícios práticos desenvolvidos para aprender a sintaxe básica da linguagem Java. Durante esses exercícios, foquei nos seguintes conceitos:
 
